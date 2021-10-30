@@ -1,0 +1,9 @@
+set number
+set hlsearch
+set ignorecase
+set smartcase
+set autoindent
+set ruler
+set shiftwidth=4
+set softtabstop=4
+set expandtab
