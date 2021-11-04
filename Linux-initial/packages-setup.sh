@@ -10,6 +10,9 @@ sudo apt install tilda
 sudo apt install build-essential
 sudo apt install python3-pip
 
+# Linux kernel dev packages
+sudo apt install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison
+
 # Replace firefox with brave browser
 sudo apt install apt-transport-https curl
 curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
